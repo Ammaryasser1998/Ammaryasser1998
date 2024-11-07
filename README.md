@@ -12,7 +12,7 @@ Welcome to my portfolio! I am a quant with expertise in financial engineering, r
    - **Description**: Optimizing a portfolio with a focus on maximum Sharpe ratio and minimum volatility using Monte Carlo simulations.
    - **Tools**: Python, NumPy, Matplotlib, Monte Carlo Simulation
    - **Skills Demonstrated**: Risk evaluation, portfolio construction, and quantitative analysis.
-   - **[Link to Project Repository](#)**
+   - **[Link to Project Repository](https://github.com/Ammaryasser1998/Portfolio-Optimization-Methods)**
 
 ### 2. **Segmenting Risk Profiles** *(Coming Soon)*
    - **Description**: A project aimed at assessing portfolios at risks in financial systems.
