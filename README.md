@@ -25,7 +25,7 @@ Welcome to my portfolio! I am a quant with expertise in financial engineering, r
 
 ## 📈 Key Skills
 
-- **Programming**: Python (advanced), SQL (basic).
+- **Programming**: Advanced Python & SQL skills.
 - **Quantitative Analysis**: Statistical modeling, data analysis, predictive modeling
 - **Machine Learning**: Linear Regression, Logistic Regression, Random Forests,  XGBoost, K-Means Clustering
 - **Risk Management**: Credit risk, portfolio risk, Value-at-Risk (VaR)
