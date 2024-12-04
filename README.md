@@ -18,7 +18,7 @@ Welcome to my portfolio! I am a quant with expertise in financial engineering, r
    - **Description**: A project aimed at calculating the level of risks of a Saudi portfolio using Value at Risk (VaR) methods and Expected Shortfall (ES).
    - **Tools**: Python, VS Code Jupyter Notebook, pandas, numpy, matplotlib, finance
    - **Skills Demonstrated**: Risk management, portfolio risk evaluation.
-   - **[Link to Project Repository][(https://github.com/Ammaryasser1998/Portfolio-Optimization-Methods)](https://github.com/Ammaryasser1998/Portfolio-Risk-Management-VaR-Calculations/tree/main)**
+   - **[Link to Project Repository](https://github.com/Ammaryasser1998/Portfolio-Optimization-Methods)](https://github.com/Ammaryasser1998/Portfolio-Risk-Management-VaR-Calculations/tree/main)**
 
 
 ---
