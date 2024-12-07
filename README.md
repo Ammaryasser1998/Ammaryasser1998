@@ -27,7 +27,7 @@ Welcome to my portfolio! I am a quant with expertise in financial engineering, r
 
 - **Programming**: Python, SQL, HTML, CSS
 - **Quantitative Analysis**: Statistical modeling, data analysis, predictive modeling
-- **Machine Learning**: Linear Regression, Logistic Regression, Random Forests,  XGBoost, K-Means Clustering
+- **Machine Learning**: Linear Regression, Logistic Regression, Random Forests, XGBoost, K-Means
 - **Risk Management**: Credit risk, portfolio risk, Value-at-Risk (VaR)
 - **Financial Products Knowledge**: Credit products, derivatives, structured finance
 - **Financial Engineering**: Portfolio optimization, Monte Carlo simulations, Mathematical Programming
