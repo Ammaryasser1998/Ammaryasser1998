@@ -20,6 +20,12 @@ Welcome to my portfolio! I am a quant with expertise in financial engineering, r
    - **Skills Demonstrated**: Risk management, portfolio risk evaluation.
    - **[Link to Project Repository](https://github.com/Ammaryasser1998/Portfolio-Risk-Management-VaR-Calculations/tree/main)**
 
+### 3. **Segmenting Risk Profiles of the Federal Bureau with Kmeans**
+   - **Description**: Segemnting Risk Profiles with of the Federal Bureau credit dataset with KMeans with the use of classification algorithms to predict PD.
+   - **Tools**: Python, VS Code Jupyter Notebook, pandas, numpy, matplotlib.pyplot, seaborn, Logistic Regression, Random Forests, XGBoost, KMeans.
+   - **Skills Demonstrated**: Data Science, Risk Management.
+   - **[Link to Project Repository](https://github.com/Ammaryasser1998/risk_segment_kmeans/tree/main)**
+
 
 ---
 
