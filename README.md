@@ -2,7 +2,7 @@
 
 # Ammar's Quantitative Finance and Risk Management Portfolio
 
-Welcome to my portfolio! I am a quant with expertise in financial engineering, risk management, and programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on financial risk consulting.
+Welcome to my portfolio! I graduated from MMU's B.sc of Financial engineering with expertise in financial engineering, risk management, and programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on financial risk consulting.
 
 ---
 
