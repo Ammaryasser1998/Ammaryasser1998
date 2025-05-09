@@ -2,8 +2,7 @@
 
 # Ammar's Quantitative Finance and Risk Management Portfolio
 
-Welcome to my portfolio! I graduated from MMU's Bachelor of sciences in Financial engineering with expertise in financial engineering, risk management, and Computer programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on financial risk consulting, Banking, Hedge Funds,
-Asset Management.
+Welcome to my portfolio! I graduated from MMU's Bachelor of sciences in Financial engineering with expertise in financial engineering, risk management, and Computer programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on Quantitative Risk, Data Science, AI/ML.
 
 ---
 
