@@ -7,7 +7,7 @@ Welcome to my portfolio! I graduated from MMU's Bachelor of sciences in Financia
 ---
 
 ## 📊 Projects
-
+<center><h1>Coming Soon!</h1></center>
 
 ---
 
