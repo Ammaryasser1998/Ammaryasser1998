@@ -13,7 +13,7 @@ Welcome to my portfolio! I graduated from MMU's Bachelor of sciences in Financia
 
 ## 📈 Key Skills
 
-- **Programming**: Python, SQL, HTML, CSS
+- **Programming**: Python, Flask, FastAPI, SQL, HTML, CSS, Tailwind, JavaScript 
 - **Quantitative Analysis**: Statistical modeling, data analysis, predictive modeling
 - **Machine Learning**: Linear Regression, Logistic Regression, Random Forests, XGBoost, K-Means
 - **Risk Management**: Credit risk, portfolio risk, Value-at-Risk (VaR)
