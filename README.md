@@ -2,7 +2,7 @@
 
 # Ammar's Quantitative Finance and Risk Management Portfolio
 
-Welcome to my portfolio! I graduated from MMU's Bachelor of sciences in Financial engineering with expertise in financial engineering, risk management, and Computer programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on Quantitative Risk, Data Science, AI/ML.
+Welcome to my portfolio! I graduated with a Bachelor of Science in Financial Engineering from MMU, with expertise in financial engineering, risk management, and computer programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on Quantitative Risk, Data Science, and AI/ML.
 
 ---
 
@@ -13,10 +13,11 @@ Welcome to my portfolio! I graduated from MMU's Bachelor of sciences in Financia
 
 ## 📈 Key Skills
 
-- **Programming**: Python, Flask, FastAPI, SQL, HTML, CSS, Tailwind, JavaScript 
-- **Quantitative Analysis**: Statistical modeling, data analysis, predictive modeling
-- **Machine Learning**: Linear Regression, Logistic Regression, Random Forests, XGBoost, K-Means
-- **Risk Management**: Credit risk, portfolio risk, Value-at-Risk (VaR)
+- **Programming**: Python, Flask, FastAPI, PostgreSQL, HTML, CSS, Tailwind, JavaScript 
+- **Quantitative Skills**: Risk Modeling, Algorithmic trading, Portfolio Optimization, Stochastic Calculus, Linear Algebra, Brownian Motion, Descriptive Statistics, Bayesian Statistics
+- **Machine Learning**: Linear, Ridge, Lasso, ElasticNet and Logistic Regression models, Decision Trees & Ensemble Methods (Random Forests, XGBoost, CatBoost, LightGBM), Dimension Reductions (PCA), Clustering (K-Means), Gradient Descent & Stochastic Gradient Descent.
+- **Deep Learning**: Neural Networks, Long Short-Term Memory (LSTM), Artificial Neural Networks (ANNs)
+- **Risk Management**: Credit risk, portfolio risk, Value-at-Risk (VaR), Fraud Detection & Anomaly Detection.
 - **Financial Products Knowledge**: Credit products, derivatives, structured finance
 - **Financial Engineering**: Portfolio optimization, Monte Carlo simulations, Mathematical Programming
 
