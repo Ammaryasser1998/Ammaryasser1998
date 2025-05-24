@@ -14,7 +14,8 @@ Welcome to my portfolio! I graduated with a Bachelor of Science in Financial Eng
 ## 📈 Key Skills
 
 - **Programming**: Python, Flask, FastAPI, PostgreSQL, HTML, CSS, Tailwind, JavaScript 
-- **Quantitative Skills**: Risk Modeling, Stochastic Calculus, Linear Algebra, Brownian Motion, Descriptive Statistics, Bayesian Statistics, Machine Learning, Deep Learning, Reinforcement Learning
+- **Quantitative Skills**: Risk Modeling, Stochastic Calculus, Linear Algebra, Brownian Motion, Descriptive Statistics, Bayesian Statistics,
+- **Data Science Skills**:  Machine Learning, Deep Learning, Reinforcement Learning, Image Classification, Fraud & Anomaly Detection, Credit Risk Defaults, Natural Language Processing.
 - **Risk Management**: Credit risk, portfolio risk, Value-at-Risk (VaR), Fraud Detection & Anomaly Detection.
 - **Financial Products Knowledge**: Credit products, derivatives, structured finance
 - **Financial Engineering**: Portfolio optimization, Monte Carlo simulations, Algorithmic Trading, NLP in finance.
