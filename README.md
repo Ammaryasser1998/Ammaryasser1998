@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Ammar's Quantitative Finance and Risk Management Portfolio
+# Ammar Elhamamy's Portfolio
 
 Welcome to my portfolio! I graduated with a Bachelor of Science in Financial Engineering from MMU, with expertise in financial engineering, risk management, and computer programming. This repository highlights my projects, technical skills, and experience in these areas, with a specific focus on Quantitative Risk, Data Science, and AI/ML.
 
